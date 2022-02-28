@@ -22,4 +22,4 @@ samples, guidance on mobile development, and a full API reference.
 - Install Flutter
 - Clone this repo and update pubsec dependencies if asked to
 - Generate the api keys and update the variables in lib/upload.dart script
-- To build the apk: `flutter build apk`
+- To build the apk: `$ flutter build apk`
