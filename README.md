@@ -16,3 +16,10 @@ samples, guidance on mobile development, and a full API reference.
 ## Reference for generating google sheet auth and api keys
 
 - [How to Generate google api keys for flutter](https://www.youtube.com/watch?v=ZSSERiYLv3c)
+
+## Quickstart
+
+- Install Flutter
+- Clone this repo and update pubsec dependencies if asked to
+- Generate the api keys and update the variables in lib/upload.dart script
+- To build the apk: `flutter build apk`
